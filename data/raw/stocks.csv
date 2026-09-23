@@ -1,0 +1,140 @@
+company,ticker,Layer
+MP Materials,MP,Layer 1
+USA Rare Earth,Private,Layer 1
+Lynas Rare Earths,LYC (ASX),Layer 1
+Energy Fuels,UUUU,Layer 1
+Albemarle,ALB,Layer 1
+SQM,SQM,Layer 1
+Ganfeng Lithium,002460 (SZSE) / 1772 (HKEX),Layer 1
+Toray Industries,3402 (TSE),Layer 2
+Hexcel,HXL,Layer 2
+Mitsubishi Chemical Group,4188 (TSE),Layer 2
+3M,MMM,Layer 2
+DuPont,DD,Layer 2
+BASF,BAS (XETRA),Layer 2
+Covestro,1COV (XETRA),Layer 2
+MTIG,Private,Layer 2
+Evonik,EVK (XETRA),Layer 2
+ArcelorMittal,MT,Layer 2
+NVIDIA,NVDA,"Layer 3, Layer 4, Layer 5"
+Google DeepMind,GOOGL (Alphabet),"Layer 3, Layer 4"
+OpenAI,Private,Layer 3
+Physical Intelligence,Private,Layer 3
+Skild AI,Private,Layer 3
+Covariant,Private,Layer 3
+Meta Platforms,META,Layer 3
+Sanctuary AI,Private,"Layer 3, Layer 10"
+iFlytek,002230 (SZSE),Layer 3
+Open Source Robotics Foundation,Non-Profit,Layer 4
+Unity Technologies,U,Layer 4
+Epic Games,Private,Layer 4
+Intrinsic,GOOGL (Alphabet),Layer 4
+Boston Dynamics AI Institute,Non-Profit / Research Institute,Layer 4
+Qualcomm,QCOM,Layer 5
+AMD,AMD,Layer 5
+Intel,INTC,Layer 5
+Ambarella,AMBA,Layer 5
+Lattice Semiconductor,LSCC,Layer 5
+CEVA,CEVA,Layer 5
+NXP Semiconductors,NXPI,Layer 5
+STMicroelectronics,STM,Layer 5
+Infineon,IFX (XETRA),Layer 5
+Texas Instruments,TXN,Layer 5
+MediaTek,2454 (TWSE),Layer 5
+Hailo,Private,Layer 5
+Monolithic Power Systems,MPWR,Layer 5
+CATL,300750 (SZSE),Layer 6
+LG Energy Solution,373220 (KRX),Layer 6
+Samsung SDI,006400 (KRX),Layer 6
+Panasonic,6752 (TSE),Layer 6
+BYD,002594 (SZSE) / 1211 (HKEX),Layer 6
+EVE Energy,300014 (SZSE),Layer 6
+Murata Manufacturing,6981 (TSE),Layer 6
+TDK,6762 (TSE),Layer 6
+Navitas Semiconductor,NVTS,Layer 6
+Wolfspeed,WOLF,Layer 6
+Analog Devices,ADI,Layer 6
+Sony,SONY,Layer 7
+Samsung Electronics,005930 (KRX),Layer 7
+Hesai Group,HSAI,Layer 7
+Ouster,OUST,Layer 7
+Luminar,LAZR,Layer 7
+ATI Industrial Automation,NOVT (Novanta),Layer 7
+OnRobot,Private,Layer 7
+Robotiq,Private,Layer 7
+RoboSense,2498 (HKEX),Layer 7
+SICK,Private,Layer 7
+GelSight,Private,Layer 7
+Touchlab,Private,Layer 7
+XELA Robotics,Private,Layer 7
+Allegro MicroSystems,ALGM,Layer 7
+Vishay Precision,VPG,Layer 7
+Cognex,CGNX,Layer 7
+Orbbec,688322 (SSE),Layer 7
+OmniVision,603501 (SSE - Will Semiconductor),Layer 7
+Harmonic Drive Systems,6324 (TSE),Layer 8
+LeaderDrive,688017 (SSE),Layer 8
+Nabtesco,6268 (TSE),Layer 8
+Schaeffler,SHA (XETRA),Layer 8
+THK,6481 (TSE),Layer 8
+Hengli Hydraulic,601100 (SSE),Layer 8
+Nidec,6594 (TSE),Layer 8
+Maxon Motor,Private,Layer 8
+Kollmorgen,RRX (Regal Rexnord),Layer 8
+Moog,MOGA / MOGB,Layer 8
+Moons' Electric,603728 (SSE),Layer 8
+Leadshine,002979 (SZSE),Layer 8
+Veichi Electric,688698 (SSE),Layer 8
+Allient,ALNT,Layer 8
+RBC Bearings,RBC,Layer 8
+Ametek,AME,Layer 8
+Regal Rexnord,RRX,Layer 8
+Sanhua Intelligent Controls,002050 (SZSE),Layer 9
+Tuopu Group,601689 (SSE),Layer 9
+Zhaowei Magnet & Electronics,003021 (SZSE),Layer 9
+Inovance Technology,300124 (SZSE),Layer 9
+Shadow Robot Company,Private,Layer 9
+SCHUNK,Private,Layer 9
+Inspire Robots,Private,Layer 9
+PSYONIC,Private,Layer 9
+LINKERBOT,Private,Layer 9
+Festo,Private,Layer 9
+PaXini,Private,Layer 9
+Tesla,TSLA,Layer 10
+Figure AI,Private,Layer 10
+Agility Robotics,Private,Layer 10
+Boston Dynamics,005380 (KRX - Hyundai),Layer 10
+Apptronik,Private,Layer 10
+1X Technologies,Private,Layer 10
+Neura Robotics,Private,Layer 10
+Unitree Robotics,Private,Layer 10
+UBTECH Robotics,9880 (HKEX),Layer 10
+Fourier Intelligence,Private,Layer 10
+Agibot,Private,Layer 10
+Wandercraft,Private,Layer 10
+Xiaomi,1810 (HKEX),Layer 10
+XPeng,XPEV / 9868 (HKEX),Layer 10
+Siemens,SIE (XETRA),Layer 11
+ABB,ABBN (SIX) / ABB (NYSE),"Layer 11, Layer 13"
+KUKA,000333 (SZSE),Layer 11
+FANUC,6954 (TSE),"Layer 11, Layer 13"
+Yaskawa Electric,6506 (TSE),Layer 11
+Foxconn,2317 (TWSE),"Layer 11, Layer 12"
+Rockwell Automation,ROK,"Layer 11, Layer 13"
+Jabil,JBL,Layer 11
+Amazon,AMZN,Layer 12
+BMW,BMW (XETRA),Layer 12
+Mercedes-Benz,MBG (XETRA),Layer 12
+Hyundai Motor Group,005380 (KRX),Layer 12
+GXO Logistics,GXO,Layer 12
+DHL,DHL (XETRA),Layer 12
+Walmart,WMT,Layer 12
+Toyota Motor,TM / 7203 (TSE),Layer 12
+Mercado Libre,MELI,Layer 12
+Uptake,Private,Layer 13
+PTC,PTC,Layer 13
+ServiceNow,NOW,Layer 13
+Zendesk,Private,Layer 13
+TeamViewer,TMV (XETRA),Layer 13
+Trimble,TRMB,Layer 13
+Samsung SDS,018260 (KRX),Layer 13

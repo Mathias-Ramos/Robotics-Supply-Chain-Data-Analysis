@@ -1,6 +1,6 @@
 company,ticker,Layer
 MP Materials,MP,Layer 1
-USA Rare Earth,Private,Layer 1
+USA Rare Earth,USAR,Layer 1
 Lynas Rare Earths,LYC (ASX),Layer 1
 Energy Fuels,UUUU,Layer 1
 Albemarle,ALB,Layer 1
@@ -107,7 +107,7 @@ Boston Dynamics,005380 (KRX - Hyundai),Layer 10
 Apptronik,Private,Layer 10
 1X Technologies,Private,Layer 10
 Neura Robotics,Private,Layer 10
-Unitree Robotics,Private,Layer 10
+Unitree Robotics,688836 (SSE),Layer 10
 UBTECH Robotics,9880 (HKEX),Layer 10
 Fourier Intelligence,Private,Layer 10
 Agibot,Private,Layer 10

@@ -1,0 +1,59 @@
+Ticker,PEG Ratio (1Y),ROIC (%),Name,Category
+000333.SZ,1.6,22.57,MIDEA GROUP,EV
+002050.SZ,1.84,20.21,SANHUA,EV
+002594.SZ,0.44,12.39,BYD,ES
+003021.SZ,0.95,7.45,ZHAOWEI,PS
+1COV.F,0.07,-3.0,Covestro AG                   I,PS
+300014.SZ,0.26,7.47,EVE,ES
+300124.SZ,0.66,16.55,INOVANCE,ES
+300750.SZ,0.52,64.2,CATL,ES
+601100.SS,1.0,32.41,JIANGSU HENGLI HYDRAULIC CO LTD,ES
+601689.SS,1.18,12.14,NINGBO TUOPU GROUP CO LTD,EV
+603501.SS,0.31,17.09,OMNIVISION INTEGRATED CIRCUITS ,ES
+688017.SS,3.79,4.63,LEADER HARMONIOUS DRIVE SYSTEMS,PV
+688322.SS,3.03,3.68,ORBBEC INC,PV
+688836.SS,2.14,22.95,YUSHU TECHNOLOGY CO LTD,EV
+ADI,0.96,6.34,"Analog Devices, Inc.",PS
+ALGM,0.58,0.65,"Allegro MicroSystems, Inc.",PS
+ALNT,1.64,6.94,Allient Inc.,PV
+AMBA,1.55,-11.87,"Ambarella, Inc.",PV
+AMD,0.37,5.5,"Advanced Micro Devices, Inc.",PS
+AME,1.74,12.36,"AMETEK, Inc.",EV
+AMZN,0.92,16.77,"Amazon.com, Inc.",ES
+BMW.DE,0.22,4.76,BAYERISCHE MOTOREN WERKE AG   S,PS
+CEVA,0.98,-2.87,"CEVA, Inc.",PS
+CGNX,1.61,7.8,Cognex Corporation,EV
+DD,1.69,2.33,"DuPont de Nemours, Inc.",PV
+DHL.DE,1.57,9.8,DHL AG                        N,EV
+GOOGL,0.83,29.91,Alphabet Inc.,ES
+GXO,0.77,2.35,"GXO Logistics, Inc.",PS
+HXL,0.89,6.44,Hexcel Corporation,PS
+IFX.DE,0.35,5.09,INFINEON TECHNOLOGIES AG      N,PS
+INTC,1.58,1.43,Intel Corporation,PV
+JBL,0.54,25.96,Jabil Inc.,ES
+LSCC,0.82,1.47,Lattice Semiconductor Corporati,PS
+MBG.DE,0.25,3.47,Mercedes-Benz Group AG        N,PS
+MELI,0.71,14.58,"MercadoLibre, Inc.",ES
+META,1.59,23.1,"Meta Platforms, Inc.",EV
+MMM,1.67,32.57,3M Company,EV
+MP,0.01,-3.46,MP Materials Corp.,PS
+MPWR,1.55,24.1,"Monolithic Power Systems, Inc.",EV
+MT,0.12,6.02,Arcelor Mittal NY Registry Shar,PS
+NOVT,1.89,7.3,Novanta Inc.,PV
+NOW,1.18,15.17,"ServiceNow, Inc.",EV
+NVDA,0.22,76.26,NVIDIA Corporation,ES
+NVTS,6.13,-42.07,Navitas Semiconductor Corporati,PV
+NXPI,0.65,12.97,NXP Semiconductors N.V.,ES
+OUST,5.58,-28.56,"Ouster, Inc.",PV
+PTC,2.34,15.92,PTC Inc.,EV
+RBC,2.35,7.6,RBC Bearings Incorporated,EV
+ROK,2.41,12.83,"Rockwell Automation, Inc.",EV
+RRX,0.55,4.96,Regal Rexnord Corporation,PS
+SIE.DE,1.65,9.25,SIEMENS AG                    N,EV
+STM,0.25,2.18,STMicroelectronics N.V.,PS
+TRMB,1.12,6.97,Trimble Inc.,PV
+TSLA,7.16,5.1,"Tesla, Inc.",PV
+TXN,1.09,20.22,Texas Instruments Incorporated,EV
+U,0.6,-8.58,Unity Software Inc.,PS
+VPG,0.2,2.22,"Vishay Precision Group, Inc.",PS
+WMT,2.76,15.63,Walmart Inc.,EV

@@ -2,3 +2,5 @@
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+/data/raw/supply_chain_levels
+/data/processed/supply_chain_levels
